@@ -1,0 +1,7 @@
+{
+  "dir": {
+  	"template": "../",
+  	"sass": "../sass",
+  	"css": "../stylesheets"
+  }
+}
